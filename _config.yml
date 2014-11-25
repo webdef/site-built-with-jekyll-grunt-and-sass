@@ -1,0 +1,14 @@
+# Site settings
+title: Jekyll Grunt and Sass
+email: frontenddeveloper@outlook.com
+description: Site built with Jekyll Grunt and Sass
+baseurl: "/jekyll-grunt-sass" # the subpath of your site, e.g. /blog/
+url: "http://webdef.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  webdef
+
+# Build settings
+markdown: kramdown
+
+# Exclude files
+exclude: [.DS_Store,package.json,Gruntfile.js,node_modules] 
