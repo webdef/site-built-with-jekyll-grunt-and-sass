@@ -27,7 +27,7 @@ Init git:
 
 Push master to github:
 
-`$ git remote add origin git@github.com:webdef/[FOLDER NAME]`
+`$ git remote add origin https://github.com/webdef/site-built-with-jekyll-grunt-and-sass.git`
 
 `$ git push -u origin master`
 
@@ -55,9 +55,7 @@ Push gh-pages to github:
 
 `$ git push -u origin gh-pages`
 
-Now you should see Coming soon message when browsing to: http://webdef.github.io/[FOLDER NAME]/
-
-Checkout the gh-pages branch in _dist directory
+Now you should see Coming soon message when browsing to: http://webdef.github.io/site-built-with-jekyll-grunt-and-sass/
 
 Let's work in master branch:
 
@@ -65,7 +63,7 @@ Let's work in master branch:
 
 Checkout the gh-pages branch into _site directory:
 
-'$ git clone git@github.com:webdef/[FOLDER NAME].git -b gh-pages _site'
+`$ git clone https://github.com/webdef/site-built-with-jekyll-grunt-and-sass.git -b gh-pages _site`
 
 The _site directory is already in .gitignore so we are just fine.
 
@@ -83,11 +81,11 @@ Push the generated site on github:
 
 `$ git push`
 
-Now browse to http://webdef.github.io/site-with-jekyll-grunt-sass/ and ... wow... the jekyll site is displayed but the CSS is broken. Why ? Because you have to set the baseurl setting in the main config file.
+Now browse to http://webdef.github.io/site-built-with-jekyll-grunt-and-sass/ and ... wow... the jekyll site is displayed but the CSS is broken. Why ? Because you have to set the baseurl setting in the main config file.
 
 So edit the _config.yml file and set:
 
-`baseurl: "/site-with-jekyll-grunt-sass"`
+`baseurl: "/site-built-with-jekyll-grunt-and-sass"`
 
 `url: "http://webdef.github.io"`
 
@@ -105,4 +103,4 @@ Regenerate the site, and push result on github:
 
 `$ git push`
 
-Now browse to http://webdef.github.io/site-with-jekyll-grunt-sass/ and everything should be fine!
+Now browse to http://webdef.github.io/site-built-with-jekyll-grunt-and-sass/ and everything should be fine!
