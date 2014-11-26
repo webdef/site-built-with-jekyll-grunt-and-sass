@@ -2,7 +2,7 @@
 title: Jekyll Grunt and Sass
 email: frontenddeveloper@outlook.com
 description: Site built with Jekyll Grunt and Sass
-baseurl: "/jekyll-grunt-sass" # the subpath of your site, e.g. /blog/
+baseurl: "/site-built-with-jekyll-grunt-and-sass" # the subpath of your site, e.g. /blog/
 url: "http://webdef.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  webdef
