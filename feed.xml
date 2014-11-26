@@ -3,10 +3,10 @@
   <channel>
     <title>Jekyll Grunt and Sass</title>
     <description>Site built with Jekyll Grunt and Sass</description>
-    <link>http://webdef.github.io/jekyll-grunt-sass/</link>
-    <atom:link href="http://webdef.github.io/jekyll-grunt-sass/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Nov 2014 10:15:08 +0100</pubDate>
-    <lastBuildDate>Wed, 26 Nov 2014 10:15:08 +0100</lastBuildDate>
+    <link>http://webdef.github.io/site-built-with-jekyll-grunt-and-sass/</link>
+    <atom:link href="http://webdef.github.io/site-built-with-jekyll-grunt-and-sass/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 26 Nov 2014 10:19:37 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Nov 2014 10:19:37 +0100</lastBuildDate>
     <generator>Jekyll v2.5.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;This site is built with Jekyll, Grunt and Sass!&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 Nov 2014 15:52:49 +0100</pubDate>
-        <link>http://webdef.github.io/jekyll-grunt-sass/jekyll/update/2014/11/25/site-with-jekyll-grunt-and-sass.html</link>
-        <guid isPermaLink="true">http://webdef.github.io/jekyll-grunt-sass/jekyll/update/2014/11/25/site-with-jekyll-grunt-and-sass.html</guid>
+        <link>http://webdef.github.io/site-built-with-jekyll-grunt-and-sass/jekyll/update/2014/11/25/site-with-jekyll-grunt-and-sass.html</link>
+        <guid isPermaLink="true">http://webdef.github.io/site-built-with-jekyll-grunt-and-sass/jekyll/update/2014/11/25/site-with-jekyll-grunt-and-sass.html</guid>
         
         
         <category>jekyll</category>
@@ -42,8 +42,8 @@
 
 </description>
         <pubDate>Fri, 14 Nov 2014 15:52:49 +0100</pubDate>
-        <link>http://webdef.github.io/jekyll-grunt-sass/jekyll/update/2014/11/14/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://webdef.github.io/jekyll-grunt-sass/jekyll/update/2014/11/14/welcome-to-jekyll.html</guid>
+        <link>http://webdef.github.io/site-built-with-jekyll-grunt-and-sass/jekyll/update/2014/11/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://webdef.github.io/site-built-with-jekyll-grunt-and-sass/jekyll/update/2014/11/14/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
